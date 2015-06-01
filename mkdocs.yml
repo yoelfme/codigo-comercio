@@ -21,5 +21,15 @@ pages:
     - 'Capitulo III': 'libro1/titulo2/capitulo3.md'
     - 'Capitulo IV': 'libro1/titulo2/capitulo4.md'
     - 'Capitulo V': 'libro1/titulo2/capitulo5.md'
+  - Libro II - Titulo I - De las obligaciones profesionales de los comerciantes:  
+    - 'Capitulo I': 'libro2/titulo1/capitulo1.md'
+    - 'Capitulo II': 'libro2/titulo1/capitulo2.md'
+    - 'Capitulo III': 'libro2/titulo1/capitulo3.md'
+    - 'Capitulo IV': 'libro2/titulo1/capitulo4.md'
+  - Libro II - Titulo II - De las proteccion a la libre competencia: 'libro2/titulo2/capitulo1.md'
+  - Libro II - Titulo III - De la contabilidad y correspondencia mercantiles:  
+    - 'Capitulo I': 'libro2/titulo3/capitulo1.md'
+    - 'Capitulo II': 'libro2/titulo3/capitulo2.md'
+
 
 theme: readthedocs
