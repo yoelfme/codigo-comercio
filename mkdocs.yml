@@ -38,5 +38,15 @@ pages:
     - 'Capitulo V': 'libro3/titulo1/capitulo5.md'
     - 'Capitulo VI': 'libro3/titulo1/capitulo6.md'
     - 'Capitulo VII': 'libro3/titulo1/capitulo7.md'
+    - 'Capitulo VIII': 'libro3/titulo1/capitulo8.md'
+    - 'Capitulo IX': 'libro3/titulo1/capitulo9.md'
+    - 'Capitulo X': 'libro3/titulo1/capitulo10.md'
+    - 'Capitulo XI': 'libro3/titulo1/capitulo11.md'
+    - 'Capitulo XII': 'libro3/titulo1/capitulo12.md'
+    - 'Capitulo XIII': 'libro3/titulo1/capitulo13.md'
+    - 'Capitulo XIV': 'libro3/titulo1/capitulo14.md'
+    - 'Capitulo XV': 'libro3/titulo1/capitulo15.md'
+  - Libro III - Titulo I - De los procedimientos:
+      
 
 theme: readthedocs
