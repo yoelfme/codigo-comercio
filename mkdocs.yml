@@ -16,5 +16,10 @@ pages:
     - 'Capitulo XI': 'libro1/titulo1/capitulo11.md'
     - 'Capitulo XII': 'libro1/titulo1/capitulo12.md'
   - Libro I - Titulo II - Auxiliares de los Comerciantes:
-  	- 'Capitulo I': 'libro1/titulo2/capitulo1.md'
+    - 'Capitulo I': 'libro1/titulo2/capitulo1.md'
+    - 'Capitulo II': 'libro1/titulo2/capitulo2.md'
+    - 'Capitulo III': 'libro1/titulo2/capitulo3.md'
+    - 'Capitulo IV': 'libro1/titulo2/capitulo4.md'
+    - 'Capitulo V': 'libro1/titulo2/capitulo5.md'
+
 theme: readthedocs
