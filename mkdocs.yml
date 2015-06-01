@@ -30,6 +30,13 @@ pages:
   - Libro II - Titulo III - De la contabilidad y correspondencia mercantiles:  
     - 'Capitulo I': 'libro2/titulo3/capitulo1.md'
     - 'Capitulo II': 'libro2/titulo3/capitulo2.md'
-
+  - Libro III - Titulo I - De las cosas mercantiles:
+    - 'Capitulo I': 'libro3/titulo1/capitulo1.md'
+    - 'Capitulo II': 'libro3/titulo1/capitulo2.md'
+    - 'Capitulo III': 'libro3/titulo1/capitulo3.md'
+    - 'Capitulo IV': 'libro3/titulo1/capitulo4.md'
+    - 'Capitulo V': 'libro3/titulo1/capitulo5.md'
+    - 'Capitulo VI': 'libro3/titulo1/capitulo6.md'
+    - 'Capitulo VII': 'libro3/titulo1/capitulo7.md'
 
 theme: readthedocs
