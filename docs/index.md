@@ -41,13 +41,13 @@ __TÍTULO PRELIMINAR__
 
 __DISPOSICIONES GENERALES__
 
-####ARTÍCULO 1. APLICABILIDAD. 
+####ARTICULO 1. APLICABILIDAD. 
 Los comerciantes en su actividad profesional, los negocios
 jurídicos mercantiles y cosas mercantiles, se regirán pos las disposiciones de este Código y, en
 su defecto, por las del Derecho Civil que se aplicarán e interpretarán de conformidad con los
 principios que inspira el Derecho Mercantil.
 
-####ARTÍCULO 2. 
+####ARTICULO 2. 
 COMERCIANTES. Son comerciantes quienes ejercen en nombre propio y con
 fines de lucro, cualesquiera actividades que se refieren a lo siguiente:
 
@@ -57,6 +57,6 @@ servicios.
 3. La Banca, seguros y fianzas.
 4. Las auxiliares de las anteriores.
 
-####ARTÍCULO 3. COMERCIANTES SOCIALES. 
+####ARTICULO 3. COMERCIANTES SOCIALES. 
 Las sociedades organizadas bajo forma mercantil
 tienen la calidad de comerciantes, cualquiera que sea su objeto.
